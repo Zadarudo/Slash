@@ -19,3 +19,16 @@
     gap: 54px;
   }
 }
+
+@media (max-width:335px) {
+  .box {
+    flex-direction: column;
+  }
+
+  .sub p {
+    font-size: 13px;
+  }
+
+
+  
+}
